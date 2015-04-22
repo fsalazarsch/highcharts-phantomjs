@@ -1,0 +1,25 @@
+{
+  "name": "highcharts-phantomjs",
+  "version": "4.1.4",
+  "main": "js/highcharts-convert.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pesla/highcharts-phantomjs.git"
+  },
+  "homepage": "https://github.com/pesla/highcharts-phantomjs",
+  "authors": [
+    "Gert Vaartjes (www.highcharts.com/license)"
+  ],
+  "description": "A PhantomJS script to convert SVG or Highcharts JSON options objects to chart images",
+  "keywords": [
+    "highcharts",
+    "phantomjs",
+    "svg",
+    "chart",
+    "chart images",
+    "convert"
+  ],
+  "ignore": [
+    "**/.*"
+  ]
+}
